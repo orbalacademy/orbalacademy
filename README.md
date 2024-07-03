@@ -1,5 +1,5 @@
 - 👋 Welcome to @orbalacademy.
-- 👀 This is an online training istitute that empowers individuals with cutting-edge skills and knowledge in Data Science, Data Analytics, Artificial Intelligence, Web Development, and Cyber Security.
+- 👀 This is an online training institute that empowers individuals with cutting-edge skills and knowledge in Data Science, Data Analytics, Artificial Intelligence, Web Development, and Cyber Security.
 - 🌱 We are committed to providing high-quality, accessible, and practical online education that bridges the gap between theoretical learning and real-world application..
 
 <!---
