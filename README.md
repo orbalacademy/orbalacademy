@@ -1,6 +1,6 @@
-- 👋 Welcome to @orbalacademy.
-- 👀 This is an online training institute that empowers individuals with cutting-edge skills and knowledge in Data Science, Data Analytics, Artificial Intelligence, Web Development, and Cyber Security.
-- 🌱 We are committed to providing high-quality, accessible, and practical online education that bridges the gap between theoretical learning and real-world application..
+- 👋 Welcome to Orbal Digital Academy.
+- Orbal Digital Academy is an online training institute that trains tech inclined individuals, empowering with cutting-edge skills and knowledge in Data Science, Data Analytics, Artificial Intelligence, Web Development, and Cyber Security.
+  
 
 <!---
 orbalacademy/orbalacademy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
